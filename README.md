@@ -1,6 +1,6 @@
 # Mapping Earthquakes
 
-The purpose of this project is to .
+The purpose of this project is to create an earthquake map with 3 different layers (. This map shows earthquake data in relation to the tectonic plates' location an a filter to visualize earthquakes with a magnitude greate than 4.5.
 
 
 ---
